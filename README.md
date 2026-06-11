@@ -1,6 +1,6 @@
 # HR Analytics Dashboard — SQL Server + Power BI
 
-![Dashboard Preview](Page_1 Workforce Overview.png)
+![Dashboard Preview](Page_1_Workforce_Overview.png)
 ## 📌 Project Overview
 
 An end-to-end HR Analytics solution built using **SQL Server** and **Power BI**. Raw employee data was imported into a SQL Server database, cleaned and transformed using SQL queries and views, then connected directly to Power BI for interactive dashboard reporting.
@@ -62,31 +62,31 @@ This project demonstrates a complete data analyst workflow — from database set
 ## 📈 Power BI Dashboard — 5 Pages
 
 ### Page 1 — Workforce Overview
-![Page 1](Page_1 Workforce Overview.png)
+![Page 1](<Page_1_Workforce_Overview.png>)
 - KPI cards: Total Employees, Attrition Count, Attrition Rate, Active Employees, Average Age
 - Charts: Active Employees by Department, Education Field, Age Band & Gender
 - Slicers: Gender, Marital Status
 
 ### Page 2 — Attrition Analysis
-![Page 2](Page_2 Attrition Analysis.png)
+![Page 2](<Page_2_Attrition_Analysis.png>)
 - Attrition by Age Band, Job Role, Salary Slab, Years at Company
 - Attrition by Education Field and Marital Status
 
 ### Page 3 — Employee Wellness
-![Page 3](Page_3 Employee Wellness & Performance.png)
+![Page 3](<Page_3_Employee_Wellness.png>)
 - Work Life Balance by Job Role
 - Job Satisfaction by Department
 - Overtime vs Attrition
 - Environment Satisfaction, Performance Rating Distribution
 
 ### Page 4 — Salary Analysis
-![Page 4](Page_4 Salary Analysis.png)
+![Page 4](<Page_4_Salary_Analysis.png>)
 - Avg Salary by Job Role, Department, Gender, Education Field
 - Salary Slab Distribution
 - Salary vs Attrition correlation
 
 ### Page 5 — Employee Detail & Attrition Risk
-![Page 5](Page_5 Employee Detail.png)
+![Page 5](<Page_5_Employee_Detail.png>)
 - Individual employee salary rank table
 - Attrition Risk matrix by Job Role
 - Risk distribution donut chart
